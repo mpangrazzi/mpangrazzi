@@ -1,6 +1,8 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mpangrazzi&show_icons=true&theme=dark&count_private=true&show_icons=true)
+![mpangrazzi's Stats](https://github-readme-stats.vercel.app/api?username=mpangrazzi&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mpangrazzi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![mpangrazzi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mpangrazzi&theme=vue-dark&hide_border=true)
+
+![mpangrazzi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mpangrazzi&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 <!--
 **mpangrazzi/mpangrazzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
