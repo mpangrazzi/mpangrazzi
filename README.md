@@ -1,4 +1,4 @@
-![mpangrazzi's Stats](https://github-readme-stats.vercel.app/api?username=mpangrazzi&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+[![mpangrazzi GitHub stats](https://github-stats-extended.vercel.app/api?username=mpangrazzi)](https://github.com/stats-organization/github-stats-extended)
 
 <!-- ![mpangrazzi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mpangrazzi&theme=vue-dark&hide_border=true) -->
 
