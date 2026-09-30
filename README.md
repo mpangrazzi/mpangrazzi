@@ -1,4 +1,4 @@
-[![mpangrazzi GitHub stats](https://github-stats-extended.vercel.app/api?username=mpangrazzi)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=mpangrazzi&show_icons=true&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=mpangrazzi&show_icons=true&include_all_commits=true&theme=dark_github)
 
 <!-- ![mpangrazzi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mpangrazzi&theme=vue-dark&hide_border=true) -->
 
